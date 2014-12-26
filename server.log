@@ -1,0 +1,1021 @@
+2013-12-20 19:12:54 [INFO] Starting minecraft server version 1.6.4
+2013-12-20 19:12:54 [INFO] Loading properties
+2013-12-20 19:12:54 [WARNING] server.properties does not exist
+2013-12-20 19:12:54 [INFO] Generating new properties file
+2013-12-20 19:12:54 [INFO] Default game type: SURVIVAL
+2013-12-20 19:12:54 [INFO] Generating keypair
+2013-12-20 19:12:55 [INFO] Starting Minecraft server on *:25565
+2013-12-20 19:12:56 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-20 19:12:56 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (Le fichier spécifié est introuvable)
+2013-12-20 19:12:56 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (Le fichier spécifié est introuvable)
+2013-12-20 19:12:56 [INFO] Preparing level "world"
+2013-12-20 19:12:57 [INFO] ----- Bukkit Auto Updater -----
+2013-12-20 19:12:57 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-20 19:12:57 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-20 19:12:57 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-20 19:12:57 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-20 19:12:57 [INFO] ----- ------------------- -----
+2013-12-20 19:12:57 [INFO] Preparing start region for level 0 (Seed: -2274397618093406315)
+2013-12-20 19:12:59 [INFO] Preparing spawn area: 4%
+2013-12-20 19:13:00 [INFO] Preparing spawn area: 7%
+2013-12-20 19:13:01 [INFO] Preparing spawn area: 10%
+2013-12-20 19:13:02 [INFO] Preparing spawn area: 12%
+2013-12-20 19:13:03 [INFO] Preparing spawn area: 15%
+2013-12-20 19:13:04 [INFO] Preparing spawn area: 17%
+2013-12-20 19:13:05 [INFO] Preparing spawn area: 19%
+2013-12-20 19:13:06 [INFO] Preparing spawn area: 22%
+2013-12-20 19:13:07 [INFO] Preparing spawn area: 23%
+2013-12-20 19:13:08 [INFO] Preparing spawn area: 25%
+2013-12-20 19:13:09 [INFO] Preparing spawn area: 26%
+2013-12-20 19:13:10 [INFO] Preparing spawn area: 27%
+2013-12-20 19:13:11 [INFO] Preparing spawn area: 29%
+2013-12-20 19:13:13 [INFO] Preparing spawn area: 31%
+2013-12-20 19:13:14 [INFO] Preparing spawn area: 32%
+2013-12-20 19:13:15 [INFO] Preparing spawn area: 34%
+2013-12-20 19:13:16 [INFO] Preparing spawn area: 34%
+2013-12-20 19:13:17 [INFO] Preparing spawn area: 36%
+2013-12-20 19:13:18 [INFO] Preparing spawn area: 38%
+2013-12-20 19:13:19 [INFO] Preparing spawn area: 40%
+2013-12-20 19:13:20 [INFO] Preparing spawn area: 42%
+2013-12-20 19:13:21 [INFO] Preparing spawn area: 43%
+2013-12-20 19:13:22 [INFO] Preparing spawn area: 45%
+2013-12-20 19:13:23 [INFO] Preparing spawn area: 45%
+2013-12-20 19:13:24 [INFO] Preparing spawn area: 47%
+2013-12-20 19:13:25 [INFO] Preparing spawn area: 50%
+2013-12-20 19:13:27 [INFO] Preparing spawn area: 54%
+2013-12-20 19:13:28 [INFO] Preparing spawn area: 58%
+2013-12-20 19:13:29 [INFO] Preparing spawn area: 61%
+2013-12-20 19:13:30 [INFO] Preparing spawn area: 64%
+2013-12-20 19:13:31 [INFO] Preparing spawn area: 66%
+2013-12-20 19:13:32 [INFO] Preparing spawn area: 69%
+2013-12-20 19:13:33 [INFO] Preparing spawn area: 72%
+2013-12-20 19:13:34 [INFO] Preparing spawn area: 75%
+2013-12-20 19:13:35 [INFO] Preparing spawn area: 77%
+2013-12-20 19:13:36 [INFO] Preparing spawn area: 79%
+2013-12-20 19:13:37 [INFO] Preparing spawn area: 82%
+2013-12-20 19:13:38 [INFO] Preparing spawn area: 84%
+2013-12-20 19:13:39 [INFO] Preparing spawn area: 87%
+2013-12-20 19:13:40 [INFO] Preparing spawn area: 90%
+2013-12-20 19:13:41 [INFO] Preparing spawn area: 93%
+2013-12-20 19:13:42 [INFO] Preparing spawn area: 95%
+2013-12-20 19:13:44 [INFO] Preparing spawn area: 96%
+2013-12-20 19:13:45 [INFO] Preparing spawn area: 98%
+2013-12-20 19:13:46 [INFO] Preparing start region for level 1 (Seed: -2274397618093406315)
+2013-12-20 19:13:47 [INFO] Preparing spawn area: 4%
+2013-12-20 19:13:49 [INFO] Preparing spawn area: 8%
+2013-12-20 19:13:50 [INFO] Preparing spawn area: 11%
+2013-12-20 19:13:51 [INFO] Preparing spawn area: 18%
+2013-12-20 19:13:52 [INFO] Preparing spawn area: 22%
+2013-12-20 19:13:53 [INFO] Preparing spawn area: 29%
+2013-12-20 19:13:54 [INFO] Preparing spawn area: 33%
+2013-12-20 19:13:56 [INFO] Preparing spawn area: 37%
+2013-12-20 19:13:57 [INFO] Preparing spawn area: 38%
+2013-12-20 19:13:58 [INFO] Preparing spawn area: 42%
+2013-12-20 19:13:59 [INFO] Preparing spawn area: 45%
+2013-12-20 19:14:00 [INFO] Preparing spawn area: 47%
+2013-12-20 19:14:01 [INFO] Preparing spawn area: 50%
+2013-12-20 19:14:02 [INFO] Preparing spawn area: 55%
+2013-12-20 19:14:03 [INFO] Preparing spawn area: 61%
+2013-12-20 19:14:04 [INFO] Preparing spawn area: 67%
+2013-12-20 19:14:05 [INFO] Preparing spawn area: 73%
+2013-12-20 19:14:07 [INFO] Preparing spawn area: 78%
+2013-12-20 19:14:08 [INFO] Preparing spawn area: 84%
+2013-12-20 19:14:09 [INFO] Preparing spawn area: 89%
+2013-12-20 19:14:10 [INFO] Preparing spawn area: 91%
+2013-12-20 19:14:11 [INFO] Preparing spawn area: 94%
+2013-12-20 19:14:12 [INFO] Preparing spawn area: 97%
+2013-12-20 19:14:13 [INFO] Preparing spawn area: 98%
+2013-12-20 19:14:13 [INFO] Preparing start region for level 2 (Seed: -2274397618093406315)
+2013-12-20 19:14:14 [INFO] Preparing spawn area: 13%
+2013-12-20 19:14:15 [INFO] Preparing spawn area: 33%
+2013-12-20 19:14:16 [INFO] Preparing spawn area: 50%
+2013-12-20 19:14:17 [INFO] Preparing spawn area: 58%
+2013-12-20 19:14:18 [INFO] Preparing spawn area: 68%
+2013-12-20 19:14:19 [INFO] Preparing spawn area: 77%
+2013-12-20 19:14:20 [INFO] Preparing spawn area: 88%
+2013-12-20 19:14:21 [INFO] Preparing spawn area: 98%
+2013-12-20 19:14:22 [INFO] Done (85,839s)! For help, type "help" or "?"
+2013-12-20 19:14:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-20 19:15:24 [INFO] Starting minecraft server version 1.6.4
+2013-12-20 19:15:24 [INFO] Loading properties
+2013-12-20 19:15:24 [INFO] Default game type: SURVIVAL
+2013-12-20 19:15:24 [INFO] Generating keypair
+2013-12-20 19:15:26 [INFO] Starting Minecraft server on *:25565
+2013-12-20 19:15:27 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-20 19:15:28 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-20 19:15:28 [INFO] Preparing level "world"
+2013-12-20 19:15:29 [INFO] ----- Bukkit Auto Updater -----
+2013-12-20 19:15:29 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-20 19:15:29 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-20 19:15:29 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-20 19:15:29 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-20 19:15:29 [INFO] ----- ------------------- -----
+2013-12-20 19:15:30 [INFO] Preparing start region for level 0 (Seed: 5959638753577295377)
+2013-12-20 19:15:31 [INFO] Preparing spawn area: 3%
+2013-12-20 19:15:32 [INFO] Preparing spawn area: 6%
+2013-12-20 19:15:33 [INFO] Preparing spawn area: 11%
+2013-12-20 19:15:34 [INFO] Preparing spawn area: 16%
+2013-12-20 19:15:35 [INFO] Preparing spawn area: 22%
+2013-12-20 19:15:36 [INFO] Preparing spawn area: 26%
+2013-12-20 19:15:37 [INFO] Preparing spawn area: 32%
+2013-12-20 19:15:38 [INFO] Preparing spawn area: 37%
+2013-12-20 19:15:39 [INFO] Preparing spawn area: 43%
+2013-12-20 19:15:40 [INFO] Preparing spawn area: 49%
+2013-12-20 19:15:41 [INFO] Preparing spawn area: 54%
+2013-12-20 19:15:42 [INFO] Preparing spawn area: 59%
+2013-12-20 19:15:43 [INFO] Preparing spawn area: 64%
+2013-12-20 19:15:44 [INFO] Preparing spawn area: 69%
+2013-12-20 19:15:45 [INFO] Preparing spawn area: 74%
+2013-12-20 19:15:46 [INFO] Preparing spawn area: 78%
+2013-12-20 19:15:47 [INFO] Preparing spawn area: 82%
+2013-12-20 19:15:48 [INFO] Preparing spawn area: 84%
+2013-12-20 19:15:49 [INFO] Preparing spawn area: 88%
+2013-12-20 19:15:50 [INFO] Preparing spawn area: 93%
+2013-12-20 19:15:51 [INFO] Preparing spawn area: 98%
+2013-12-20 19:15:51 [INFO] Preparing start region for level 1 (Seed: 5959638753577295377)
+2013-12-20 19:15:52 [INFO] Preparing spawn area: 5%
+2013-12-20 19:15:53 [INFO] Preparing spawn area: 9%
+2013-12-20 19:15:54 [INFO] Preparing spawn area: 16%
+2013-12-20 19:15:55 [INFO] Preparing spawn area: 20%
+2013-12-20 19:15:56 [INFO] Preparing spawn area: 23%
+2013-12-20 19:15:57 [INFO] Preparing spawn area: 30%
+2013-12-20 19:15:58 [INFO] Preparing spawn area: 32%
+2013-12-20 19:15:59 [INFO] Preparing spawn area: 38%
+2013-12-20 19:16:01 [INFO] Preparing spawn area: 45%
+2013-12-20 19:16:02 [INFO] Preparing spawn area: 51%
+2013-12-20 19:16:03 [INFO] Preparing spawn area: 57%
+2013-12-20 19:16:04 [INFO] Preparing spawn area: 63%
+2013-12-20 19:16:05 [INFO] Preparing spawn area: 67%
+2013-12-20 19:16:06 [INFO] Preparing spawn area: 73%
+2013-12-20 19:16:07 [INFO] Preparing spawn area: 79%
+2013-12-20 19:16:08 [INFO] Preparing spawn area: 83%
+2013-12-20 19:16:09 [INFO] Preparing spawn area: 85%
+2013-12-20 19:16:11 [INFO] Preparing spawn area: 89%
+2013-12-20 19:16:12 [INFO] Preparing spawn area: 90%
+2013-12-20 19:16:13 [INFO] Preparing spawn area: 94%
+2013-12-20 19:16:15 [INFO] Preparing spawn area: 95%
+2013-12-20 19:16:16 [INFO] Preparing spawn area: 99%
+2013-12-20 19:16:16 [INFO] Preparing start region for level 2 (Seed: 5959638753577295377)
+2013-12-20 19:16:17 [INFO] Preparing spawn area: 11%
+2013-12-20 19:16:18 [INFO] Preparing spawn area: 23%
+2013-12-20 19:16:19 [INFO] Preparing spawn area: 39%
+2013-12-20 19:16:21 [INFO] Preparing spawn area: 50%
+2013-12-20 19:16:22 [INFO] Preparing spawn area: 61%
+2013-12-20 19:16:23 [INFO] Preparing spawn area: 75%
+2013-12-20 19:16:24 [INFO] Preparing spawn area: 90%
+2013-12-20 19:16:25 [INFO] Preparing spawn area: 97%
+2013-12-20 19:16:25 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-20 19:16:25 [INFO] [MoreHearts] Enabled
+2013-12-20 19:16:25 [INFO] [MoreHearts] Config created
+2013-12-20 19:16:25 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-20 19:16:25 [INFO] Done (57,218s)! For help, type "help" or "?"
+2013-12-20 19:16:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-20 19:17:24 [INFO] silver8563[/192.168.1.13:55076] logged in with entity id 7797 at ([world] 179.5, 66.0, 199.5)
+2013-12-20 19:17:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-20 19:17:53 [INFO] silver8563 issued server command: /addhearts silver8563 5
+2013-12-20 19:17:57 [INFO] silver8563 issued server command: /addhearts silver8563 5
+2013-12-20 19:18:01 [INFO] silver8563 issued server command: /addhearts
+2013-12-20 19:18:13 [INFO] silver8563 issued server command: /morehearts
+2013-12-20 19:18:27 [INFO] silver8563 issued server command: /morehearts add silver8563 5
+2013-12-20 19:18:40 [INFO] silver8563 issued server command: /morehearts set silver8563 8
+2013-12-20 19:18:49 [INFO] silver8563 issued server command: /morehearts reset
+2013-12-20 19:18:52 [INFO] silver8563 issued server command: /morehearts set silver8563 8
+2013-12-20 19:18:52 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'morehearts' in plugin MoreHearts v1.6.5
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.dispatchCommand(CraftServer.java:528)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.handleCommand(PlayerConnection.java:968)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.chat(PlayerConnection.java:886)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.a(PlayerConnection.java:837)
+	at net.minecraft.server.v1_6_R3.Packet3Chat.handle(SourceFile:49)
+	at net.minecraft.server.v1_6_R3.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R3.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.t(MinecraftServer.java:592)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.t(DedicatedServer.java:227)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.s(MinecraftServer.java:488)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:421)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: java.lang.NullPointerException
+	at com.roei.morehearts.main.mh(main.java:485)
+	at com.roei.morehearts.main.onCommand(main.java:245)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 15 more
+2013-12-20 19:18:59 [INFO] silver8563 issued server command: /morehearts reset
+2013-12-20 19:19:34 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-20 19:19:34 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-20 19:19:40 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-20 19:19:42 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-20 19:19:43 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-20 19:19:47 [INFO] silver8563 issued server command: /morehearts add silver8563 5
+2013-12-20 19:19:47 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'morehearts' in plugin MoreHearts v1.6.5
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.dispatchCommand(CraftServer.java:528)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.handleCommand(PlayerConnection.java:968)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.chat(PlayerConnection.java:886)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.a(PlayerConnection.java:837)
+	at net.minecraft.server.v1_6_R3.Packet3Chat.handle(SourceFile:49)
+	at net.minecraft.server.v1_6_R3.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R3.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.t(MinecraftServer.java:592)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.t(DedicatedServer.java:227)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.s(MinecraftServer.java:488)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:421)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: java.lang.NullPointerException
+	at com.roei.morehearts.main.mh(main.java:485)
+	at com.roei.morehearts.main.onCommand(main.java:198)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 15 more
+2013-12-20 19:21:09 [INFO] silver8563 issued server command: /morehearts reset
+2013-12-20 19:21:17 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-20 19:21:17 [INFO] Connection reset
+2013-12-20 19:21:17 [INFO] §esilver8563 left the game.
+2013-12-20 19:22:37 [INFO] Starting minecraft server version 1.6.4
+2013-12-20 19:22:37 [INFO] Loading properties
+2013-12-20 19:22:37 [INFO] Default game type: SURVIVAL
+2013-12-20 19:22:37 [INFO] Generating keypair
+2013-12-20 19:22:38 [INFO] Starting Minecraft server on *:25565
+2013-12-20 19:22:40 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-20 19:22:40 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-20 19:22:40 [INFO] Preparing level "world"
+2013-12-20 19:22:41 [INFO] ----- Bukkit Auto Updater -----
+2013-12-20 19:22:41 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-20 19:22:41 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-20 19:22:41 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-20 19:22:41 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-20 19:22:41 [INFO] ----- ------------------- -----
+2013-12-20 19:22:41 [INFO] Preparing start region for level 0 (Seed: 1126119096720885624)
+2013-12-20 19:22:42 [INFO] Preparing spawn area: 14%
+2013-12-20 19:22:43 [INFO] Preparing spawn area: 17%
+2013-12-20 19:22:50 [INFO] Preparing spawn area: 17%
+2013-12-20 19:22:51 [INFO] Preparing spawn area: 22%
+2013-12-20 19:22:52 [INFO] Preparing spawn area: 28%
+2013-12-20 19:22:53 [INFO] Preparing spawn area: 33%
+2013-12-20 19:22:54 [INFO] Preparing spawn area: 37%
+2013-12-20 19:22:55 [INFO] Preparing spawn area: 42%
+2013-12-20 19:22:56 [INFO] Preparing spawn area: 46%
+2013-12-20 19:22:57 [INFO] Preparing spawn area: 51%
+2013-12-20 19:22:58 [INFO] Preparing spawn area: 54%
+2013-12-20 19:22:59 [INFO] Preparing spawn area: 58%
+2013-12-20 19:23:00 [INFO] Preparing spawn area: 62%
+2013-12-20 19:23:01 [INFO] Preparing spawn area: 66%
+2013-12-20 19:23:02 [INFO] Preparing spawn area: 70%
+2013-12-20 19:23:03 [INFO] Preparing spawn area: 74%
+2013-12-20 19:23:05 [INFO] Preparing spawn area: 78%
+2013-12-20 19:23:06 [INFO] Preparing spawn area: 90%
+2013-12-20 19:23:07 [INFO] Preparing spawn area: 98%
+2013-12-20 19:23:07 [INFO] Preparing start region for level 1 (Seed: 1126119096720885624)
+2013-12-20 19:23:08 [INFO] Preparing spawn area: 48%
+2013-12-20 19:23:09 [INFO] Preparing spawn area: 60%
+2013-12-20 19:23:10 [INFO] Preparing spawn area: 64%
+2013-12-20 19:23:11 [INFO] Preparing spawn area: 69%
+2013-12-20 19:23:12 [INFO] Preparing spawn area: 74%
+2013-12-20 19:23:13 [INFO] Preparing spawn area: 84%
+2013-12-20 19:23:14 [INFO] Preparing start region for level 2 (Seed: 1126119096720885624)
+2013-12-20 19:23:15 [INFO] Preparing spawn area: 23%
+2013-12-20 19:23:16 [INFO] Preparing spawn area: 96%
+2013-12-20 19:23:16 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-20 19:23:16 [INFO] [MoreHearts] Enabled
+2013-12-20 19:23:16 [SEVERE] Cannot load plugins\MoreHearts\config.yml
+org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in "<string>", line 6, column 1:
+    // I know its called default hea ... 
+    ^
+could not found expected ':'
+ in "<string>", line 7, column 1:
+    
+    ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:138)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:105)
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:175)
+	at org.bukkit.plugin.java.JavaPlugin.reloadConfig(JavaPlugin.java:117)
+	at org.bukkit.plugin.java.JavaPlugin.getConfig(JavaPlugin.java:111)
+	at com.roei.morehearts.main.onEnable(main.java:30)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.loadPlugin(CraftServer.java:284)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.enablePlugins(CraftServer.java:266)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.l(MinecraftServer.java:315)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.f(MinecraftServer.java:292)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:252)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: while scanning a simple key
+ in "<string>", line 6, column 1:
+    // I know its called default hea ... 
+    ^
+could not found expected ':'
+ in "<string>", line 7, column 1:
+    
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:398)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:229)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:178)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:563)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399)
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53)
+	... 17 more
+2013-12-20 19:23:16 [INFO] [MoreHearts] Config created
+2013-12-20 19:23:16 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-20 19:23:17 [INFO] Done (36,223s)! For help, type "help" or "?"
+2013-12-20 19:23:25 [INFO] /192.168.1.13:55229 lost connection
+2013-12-20 19:23:32 [INFO] silver8563[/192.168.1.13:55232] logged in with entity id 2944 at ([world] 174.83482092033657, 65.0, 199.01752687702535)
+2013-12-20 19:23:47 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-20 19:23:47 [INFO] §esilver8563 left the game.
+2013-12-20 19:23:47 [INFO] Connection reset
+2013-12-20 19:26:53 [INFO] Starting minecraft server version 1.6.4
+2013-12-20 19:26:53 [INFO] Loading properties
+2013-12-20 19:26:53 [INFO] Default game type: SURVIVAL
+2013-12-20 19:26:53 [INFO] Generating keypair
+2013-12-20 19:26:57 [INFO] Starting Minecraft server on *:25565
+2013-12-20 19:26:58 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-20 19:26:59 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-20 19:26:59 [INFO] Preparing level "world"
+2013-12-20 19:26:59 [INFO] ----- Bukkit Auto Updater -----
+2013-12-20 19:26:59 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-20 19:26:59 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-20 19:26:59 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-20 19:26:59 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-20 19:26:59 [INFO] ----- ------------------- -----
+2013-12-20 19:27:00 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2013-12-20 19:27:02 [INFO] Preparing spawn area: 4%
+2013-12-20 19:27:03 [INFO] Preparing spawn area: 7%
+2013-12-20 19:27:04 [INFO] Preparing spawn area: 10%
+2013-12-20 19:27:05 [INFO] Preparing spawn area: 12%
+2013-12-20 19:27:06 [INFO] Preparing spawn area: 17%
+2013-12-20 19:27:07 [INFO] Preparing spawn area: 21%
+2013-12-20 19:27:08 [INFO] Preparing spawn area: 26%
+2013-12-20 19:27:09 [INFO] Preparing spawn area: 29%
+2013-12-20 19:27:10 [INFO] Preparing spawn area: 35%
+2013-12-20 19:27:11 [INFO] Preparing spawn area: 40%
+2013-12-20 19:27:12 [INFO] Preparing spawn area: 44%
+2013-12-20 19:27:13 [INFO] Preparing spawn area: 47%
+2013-12-20 19:27:14 [INFO] Preparing spawn area: 50%
+2013-12-20 19:27:15 [INFO] Preparing spawn area: 53%
+2013-12-20 19:27:16 [INFO] Preparing spawn area: 56%
+2013-12-20 19:27:17 [INFO] Preparing spawn area: 59%
+2013-12-20 19:27:18 [INFO] Preparing spawn area: 76%
+2013-12-20 19:27:19 [INFO] Preparing spawn area: 83%
+2013-12-20 19:27:20 [INFO] Preparing spawn area: 89%
+2013-12-20 19:27:21 [INFO] Preparing spawn area: 94%
+2013-12-20 19:27:22 [INFO] Preparing spawn area: 97%
+2013-12-20 19:27:23 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2013-12-20 19:27:24 [INFO] Preparing spawn area: 50%
+2013-12-20 19:27:25 [INFO] Preparing spawn area: 80%
+2013-12-20 19:27:25 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2013-12-20 19:27:26 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-20 19:27:26 [INFO] [MoreHearts] Enabled
+2013-12-20 19:27:26 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-20 19:27:26 [INFO] Done (27,600s)! For help, type "help" or "?"
+2013-12-20 19:27:26 [INFO] /192.168.1.13:55440 lost connection
+2013-12-20 19:27:31 [INFO] /192.168.1.13:55459 lost connection
+2013-12-20 19:27:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-20 19:27:49 [INFO] silver8563[/192.168.1.13:55466] logged in with entity id 4041 at ([world] 162.6790212642876, 68.0, 218.26692014550852)
+2013-12-20 19:28:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-20 19:28:20 [INFO] silver8563 issued server command: /save-all
+2013-12-20 19:28:20 [INFO] silver8563: Forcing save..[m
+2013-12-20 19:28:21 [INFO] silver8563: Save complete.[m
+2013-12-20 19:28:45 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-20 19:28:45 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-20 19:28:50 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-20 19:28:50 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-20 19:29:06 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-20 19:29:06 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-20 19:29:15 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-20 19:29:15 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-20 19:29:40 [INFO] silver8563 issued server command: /moreheart
+2013-12-20 19:29:47 [INFO] silver8563 issued server command: /moreheart
+2013-12-20 19:29:51 [INFO] silver8563 issued server command: /help
+2013-12-20 19:30:02 [INFO] silver8563 issued server command: /kill
+2013-12-20 19:30:02 [INFO] silver8563 hit the ground too hard
+2013-12-20 19:30:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-20 19:30:16 [INFO] silver8563 issued server command: /kill
+2013-12-20 19:30:16 [INFO] silver8563 died
+2013-12-20 19:30:27 [INFO] silver8563 issued server command: /save-all
+2013-12-20 19:30:27 [INFO] silver8563: Forcing save..[m
+2013-12-20 19:30:28 [INFO] silver8563: Save complete.[m
+2013-12-20 19:30:30 [INFO] silver8563 issued server command: /kill
+2013-12-20 19:30:30 [INFO] silver8563 died
+2013-12-20 19:32:03 [INFO] silver8563 issued server command: /morehearts add silver8563 8
+2013-12-20 19:32:08 [INFO] silver8563 issued server command: /kill
+2013-12-20 19:32:08 [INFO] silver8563 hit the ground too hard
+2013-12-20 19:32:32 [INFO] silver8563 issued server command: /morehearts refresh
+2013-12-20 19:32:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-20 19:32:58 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-20 19:32:58 [INFO] §esilver8563 left the game.
+2013-12-20 19:32:58 [INFO] Connection reset
+2013-12-20 19:33:01 [INFO] /192.168.1.13:55742 lost connection
+2013-12-20 19:33:03 [INFO] silver8563[/192.168.1.13:55743] logged in with entity id 10033 at ([world] -46.8496017117635, 73.0, 254.33033365882696)
+2013-12-20 19:33:22 [INFO] silver8563 issued server command: /refhearts
+2013-12-20 19:33:43 [INFO] silver8563 issued server command: /morehearts set silver8563 1
+2013-12-20 19:33:54 [INFO] silver8563 issued server command: /morehearts set silver8563
+2013-12-20 19:33:59 [INFO] silver8563 issued server command: /morehearts set silver8563 1
+2013-12-20 19:34:03 [INFO] silver8563 issued server command: /morehearts set silver8563 2
+2013-12-20 19:34:26 [INFO] silver8563 issued server command: /morehearts refresh
+2013-12-20 19:34:32 [INFO] silver8563 issued server command: /morehearts set silver8563 1
+2013-12-20 19:34:39 [INFO] silver8563 issued server command: /morehearts refresd
+2013-12-20 19:34:42 [INFO] silver8563 issued server command: /morehearts refresh
+2013-12-20 19:34:46 [INFO] silver8563 issued server command: /morehearts set silver8563
+2013-12-20 19:34:54 [INFO] silver8563 issued server command: /morehearts set silver8563 0
+2013-12-20 19:34:58 [INFO] silver8563 issued server command: /morehearts set silver8563 0
+2013-12-20 19:35:02 [INFO] silver8563 issued server command: /morehearts set silver8563 0
+2013-12-20 19:35:24 [INFO] silver8563 issued server command: /kill
+2013-12-20 19:35:24 [INFO] silver8563 hit the ground too hard
+2013-12-20 19:35:53 [INFO] silver8563 issued server command: /morehearts add silver8563 8
+2013-12-20 19:35:57 [INFO] silver8563 issued server command: /morehearts set silver8563 0
+2013-12-20 19:36:10 [INFO] silver8563 issued server command: /morehearts add silver8563 8
+2013-12-20 19:36:14 [INFO] Connection reset
+2013-12-20 19:36:14 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-20 19:36:14 [INFO] §esilver8563 left the game.
+2013-12-20 19:36:18 [INFO] CONSOLE: Stopping the server..[m
+2013-12-20 19:36:18 [INFO] Stopping server
+2013-12-20 19:36:18 [INFO] [MoreHearts] Disabling MoreHearts v1.6.5
+2013-12-20 19:36:18 [INFO] [MoreHearts] Disabled
+2013-12-20 19:36:18 [INFO] Saving players
+2013-12-20 19:36:18 [WARNING] DSCT: socket closed
+2013-12-20 19:36:18 [INFO] Saving worlds
+2013-12-20 19:36:18 [INFO] Closing listening thread
+2013-12-20 19:36:18 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-20 19:36:19 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-20 19:36:19 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-12-20 19:36:43 [INFO] Starting minecraft server version 1.6.4
+2013-12-20 19:36:43 [INFO] Loading properties
+2013-12-20 19:36:43 [INFO] Default game type: SURVIVAL
+2013-12-20 19:36:43 [INFO] Generating keypair
+2013-12-20 19:36:44 [INFO] Starting Minecraft server on *:25565
+2013-12-20 19:36:46 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-20 19:36:47 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-20 19:36:47 [INFO] Preparing level "world"
+2013-12-20 19:36:48 [INFO] ----- Bukkit Auto Updater -----
+2013-12-20 19:36:48 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-20 19:36:48 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-20 19:36:48 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-20 19:36:48 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-20 19:36:48 [INFO] ----- ------------------- -----
+2013-12-20 19:36:48 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2013-12-20 19:36:49 [INFO] Preparing spawn area: 12%
+2013-12-20 19:36:50 [INFO] Preparing spawn area: 61%
+2013-12-20 19:36:51 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2013-12-20 19:36:52 [INFO] Preparing spawn area: 49%
+2013-12-20 19:36:52 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2013-12-20 19:36:53 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-20 19:36:53 [INFO] [MoreHearts] Enabled
+2013-12-20 19:36:53 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-20 19:36:53 [INFO] Done (6,727s)! For help, type "help" or "?"
+2013-12-20 19:37:03 [INFO] silver8563[/192.168.1.13:55862] logged in with entity id 284 at ([world] -16.716924451049827, 70.0, 174.51633657372128)
+2013-12-20 19:37:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-20 19:37:15 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-20 19:37:15 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-20 19:37:20 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-20 19:37:20 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-20 19:37:45 [INFO] silver8563 issued server command: /morehearts
+2013-12-20 19:37:58 [INFO] silver8563 issued server command: /morehearts set silver8563 0
+2013-12-20 19:38:03 [INFO] silver8563 issued server command: /kill
+2013-12-20 19:38:03 [INFO] silver8563 died
+2013-12-20 19:38:39 [INFO] silver8563 issued server command: /morehearts add silver8563 8
+2013-12-20 19:40:09 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-20 19:40:09 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-20 19:41:53 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-20 19:41:53 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-20 19:42:03 [INFO] silver8563 was slain by Zombie
+2013-12-20 19:42:39 [INFO] silver8563 was slain by Zombie
+2013-12-20 19:42:54 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-20 19:42:54 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-20 19:44:14 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-20 19:44:14 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-20 19:45:15 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-20 19:45:15 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-20 19:45:24 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-20 19:45:24 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-20 19:47:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-20 19:49:53 [INFO] CONSOLE: Stopping the server..[m
+2013-12-20 19:49:53 [INFO] Stopping server
+2013-12-20 19:49:53 [INFO] [MoreHearts] Disabling MoreHearts v1.6.5
+2013-12-20 19:49:53 [INFO] [MoreHearts] Disabled
+2013-12-20 19:49:54 [INFO] Saving players
+2013-12-20 19:49:54 [WARNING] DSCT: socket closed
+2013-12-20 19:49:54 [INFO] Closing listening thread
+2013-12-20 19:49:54 [INFO] §esilver8563 left the game.
+2013-12-20 19:49:54 [INFO] Saving worlds
+2013-12-20 19:49:54 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-20 19:49:59 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-20 19:49:59 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-12-21 09:46:57 [INFO] Starting minecraft server version 1.6.4
+2013-12-21 09:46:57 [INFO] Loading properties
+2013-12-21 09:46:57 [INFO] Default game type: SURVIVAL
+2013-12-21 09:46:57 [INFO] Generating keypair
+2013-12-21 09:46:58 [INFO] Starting Minecraft server on *:25565
+2013-12-21 09:47:00 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-21 09:47:00 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-21 09:47:00 [INFO] Preparing level "world"
+2013-12-21 09:47:01 [INFO] ----- Bukkit Auto Updater -----
+2013-12-21 09:47:01 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-21 09:47:01 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-21 09:47:01 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-21 09:47:01 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-21 09:47:01 [INFO] ----- ------------------- -----
+2013-12-21 09:47:01 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2013-12-21 09:47:03 [INFO] Preparing spawn area: 8%
+2013-12-21 09:47:04 [INFO] Preparing spawn area: 55%
+2013-12-21 09:47:05 [INFO] Preparing spawn area: 99%
+2013-12-21 09:47:05 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2013-12-21 09:47:06 [INFO] Preparing spawn area: 48%
+2013-12-21 09:47:07 [INFO] Preparing spawn area: 98%
+2013-12-21 09:47:07 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2013-12-21 09:47:08 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-21 09:47:08 [INFO] [MoreHearts] Enabled
+2013-12-21 09:47:08 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-21 09:47:08 [INFO] Done (7,592s)! For help, type "help" or "?"
+2013-12-21 09:47:31 [INFO] silver8563[/192.168.1.13:49431] logged in with entity id 198 at ([world] -18.66487986549774, 75.0, 195.11522765199103)
+2013-12-21 09:48:41 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-21 09:48:41 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-21 09:48:47 [INFO] silver8563 issued server command: /time set night
+2013-12-21 09:48:47 [INFO] silver8563: Set time to 12500[m
+2013-12-21 09:50:38 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-21 09:50:38 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-21 09:51:21 [INFO] silver8563 issued server command: /stop
+2013-12-21 09:51:21 [INFO] silver8563: Stopping the server..[m
+2013-12-21 09:51:21 [INFO] Stopping server
+2013-12-21 09:51:21 [INFO] [MoreHearts] Disabling MoreHearts v1.6.5
+2013-12-21 09:51:21 [INFO] [MoreHearts] Disabled
+2013-12-21 09:51:21 [WARNING] DSCT: socket closed
+2013-12-21 09:51:21 [INFO] Closing listening thread
+2013-12-21 09:51:21 [INFO] Saving players
+2013-12-21 09:51:21 [INFO] §esilver8563 left the game.
+2013-12-21 09:51:21 [INFO] Saving worlds
+2013-12-21 09:51:21 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-21 09:51:23 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-21 09:51:24 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-12-21 18:02:06 [INFO] Starting minecraft server version 1.6.4
+2013-12-21 18:02:06 [INFO] Loading properties
+2013-12-21 18:02:06 [INFO] Default game type: SURVIVAL
+2013-12-21 18:02:06 [INFO] Generating keypair
+2013-12-21 18:02:07 [INFO] Starting Minecraft server on *:25565
+2013-12-21 18:02:09 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-21 18:02:09 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-21 18:02:10 [INFO] ----- Bukkit Auto Updater -----
+2013-12-21 18:02:10 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-21 18:02:10 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-21 18:02:10 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-21 18:02:10 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-21 18:02:10 [INFO] ----- ------------------- -----
+2013-12-21 18:02:10 [INFO] Preparing level "world"
+2013-12-21 18:02:10 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2013-12-21 18:02:11 [INFO] Preparing spawn area: 8%
+2013-12-21 18:02:12 [INFO] Preparing spawn area: 46%
+2013-12-21 18:02:13 [INFO] Preparing spawn area: 78%
+2013-12-21 18:02:14 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2013-12-21 18:02:15 [INFO] Preparing spawn area: 4%
+2013-12-21 18:02:16 [INFO] Preparing spawn area: 41%
+2013-12-21 18:02:17 [INFO] Preparing spawn area: 49%
+2013-12-21 18:02:18 [INFO] Preparing spawn area: 53%
+2013-12-21 18:02:19 [INFO] Preparing spawn area: 61%
+2013-12-21 18:02:20 [INFO] Preparing spawn area: 89%
+2013-12-21 18:02:21 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2013-12-21 18:02:22 [INFO] Preparing spawn area: 8%
+2013-12-21 18:02:23 [INFO] Preparing spawn area: 18%
+2013-12-21 18:02:24 [INFO] Preparing spawn area: 35%
+2013-12-21 18:02:25 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-21 18:02:25 [INFO] [MoreHearts] Enabled
+2013-12-21 18:02:25 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-21 18:02:25 [INFO] Done (15,301s)! For help, type "help" or "?"
+2013-12-21 18:02:25 [INFO] /192.168.1.13:51320 lost connection
+2013-12-21 18:02:29 [INFO] /192.168.1.13:51333 lost connection
+2013-12-21 18:02:34 [INFO] silver8563[/192.168.1.13:51335] logged in with entity id 207 at ([world] -19.183561844873147, 70.0, 182.69999998807907)
+2013-12-21 18:05:06 [INFO] silver8563 issued server command: /morehearts
+2013-12-21 18:05:15 [INFO] silver8563 issued server command: /morehearts set silver8563 0
+2013-12-21 18:05:30 [INFO] silver8563 issued server command: /morehearts add silver8563 2
+2013-12-21 18:05:42 [INFO] silver8563 issued server command: /morehearts set silver8563 0
+2013-12-21 18:05:49 [INFO] silver8563 issued server command: /morehearts add silver8563 8
+2013-12-21 18:07:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-21 18:12:24 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-21 18:12:24 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-21 18:12:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-21 18:12:36 [INFO] silver8563 issued server command: /clear
+2013-12-21 18:12:36 [INFO] silver8563: Cleared the inventory of silver8563, removing 96 items[m
+2013-12-21 18:12:36 [INFO] silver8563 issued server command: /clear
+2013-12-21 18:12:36 [INFO] silver8563: Cleared the inventory of silver8563, removing 0 items[m
+2013-12-21 18:12:51 [INFO] Unknown command. Type "help" for help.[m
+2013-12-21 18:12:57 [INFO] silver8563 issued server command: /clear
+2013-12-21 18:12:57 [INFO] silver8563: Cleared the inventory of silver8563, removing 1 items[m
+2013-12-21 18:13:01 [INFO] Connection reset
+2013-12-21 18:13:01 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-21 18:13:01 [INFO] §esilver8563 left the game.
+2013-12-21 18:13:05 [INFO] silver8563[/192.168.1.13:51591] logged in with entity id 4656 at ([world] -17.024205910127524, 75.0, 198.04032239511017)
+2013-12-21 18:13:30 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-21 18:13:30 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-21 18:13:32 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-21 18:13:32 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-21 18:15:42 [INFO] silver8563 issued server command: /give silver8563 137
+2013-12-21 18:15:42 [INFO] silver8563: Gave silver8563 some 137 (COMMAND)[m
+2013-12-21 18:17:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-21 18:18:35 [INFO] silver8563 issued server command: /morehearts
+2013-12-21 18:19:29 [INFO] CONSOLE: Stopping the server..[m
+2013-12-21 18:19:29 [INFO] Stopping server
+2013-12-21 18:19:29 [INFO] [MoreHearts] Disabling MoreHearts v1.6.5
+2013-12-21 18:19:29 [INFO] [MoreHearts] Disabled
+2013-12-21 18:19:29 [INFO] Saving players
+2013-12-21 18:19:29 [WARNING] DSCT: socket closed
+2013-12-21 18:19:29 [INFO] Closing listening thread
+2013-12-21 18:19:29 [INFO] §esilver8563 left the game.
+2013-12-21 18:19:29 [INFO] Saving worlds
+2013-12-21 18:19:29 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-21 18:19:31 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-21 18:19:31 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-12-21 18:20:19 [INFO] Starting minecraft server version 1.6.4
+2013-12-21 18:20:19 [INFO] Loading properties
+2013-12-21 18:20:20 [INFO] Default game type: SURVIVAL
+2013-12-21 18:20:20 [INFO] Generating keypair
+2013-12-21 18:20:21 [INFO] Starting Minecraft server on *:25565
+2013-12-21 18:20:22 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-21 18:20:23 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-21 18:20:23 [INFO] Preparing level "world"
+2013-12-21 18:20:24 [INFO] ----- Bukkit Auto Updater -----
+2013-12-21 18:20:24 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-21 18:20:24 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-21 18:20:24 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-21 18:20:24 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-21 18:20:24 [INFO] ----- ------------------- -----
+2013-12-21 18:20:24 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2013-12-21 18:20:25 [INFO] Preparing spawn area: 16%
+2013-12-21 18:20:26 [INFO] Preparing spawn area: 64%
+2013-12-21 18:20:26 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2013-12-21 18:20:28 [INFO] Preparing spawn area: 52%
+2013-12-21 18:20:28 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2013-12-21 18:20:29 [INFO] Preparing spawn area: 50%
+2013-12-21 18:20:30 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-21 18:20:30 [INFO] [MoreHearts] Enabled
+2013-12-21 18:20:30 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-21 18:20:30 [INFO] Done (7,134s)! For help, type "help" or "?"
+2013-12-21 18:20:33 [INFO] /192.168.1.13:51952 lost connection
+2013-12-21 18:20:39 [INFO] silver8563[/192.168.1.13:51953] logged in with entity id 187 at ([world] -22.379480572988456, 74.0, 192.5175069207564)
+2013-12-21 18:21:10 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-21 18:21:10 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-21 18:22:31 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-21 18:22:31 [INFO] Connection reset
+2013-12-21 18:22:31 [INFO] §esilver8563 left the game.
+2013-12-21 18:22:34 [INFO] CONSOLE: Stopping the server..[m
+2013-12-21 18:22:34 [INFO] Stopping server
+2013-12-21 18:22:34 [INFO] [MoreHearts] Disabling MoreHearts v1.6.5
+2013-12-21 18:22:34 [INFO] [MoreHearts] Disabled
+2013-12-21 18:22:34 [INFO] Saving players
+2013-12-21 18:22:34 [WARNING] DSCT: socket closed
+2013-12-21 18:22:35 [INFO] Closing listening thread
+2013-12-21 18:22:35 [INFO] Saving worlds
+2013-12-21 18:22:35 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-21 18:22:37 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-21 18:22:37 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-12-21 18:22:37 [INFO] Stopping server
+2013-12-21 18:22:37 [INFO] Saving players
+2013-12-21 18:22:37 [INFO] Saving worlds
+2013-12-21 18:22:37 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-21 18:22:37 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-22 14:16:56 [INFO] Starting minecraft server version 1.6.4
+2013-12-22 14:16:56 [INFO] Loading properties
+2013-12-22 14:16:56 [INFO] Default game type: SURVIVAL
+2013-12-22 14:16:56 [INFO] Generating keypair
+2013-12-22 14:16:58 [INFO] Starting Minecraft server on *:25565
+2013-12-22 14:17:00 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-22 14:17:00 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-22 14:17:01 [INFO] ----- Bukkit Auto Updater -----
+2013-12-22 14:17:01 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-22 14:17:01 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-22 14:17:01 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-22 14:17:01 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-22 14:17:01 [INFO] ----- ------------------- -----
+2013-12-22 14:17:01 [INFO] Preparing level "world"
+2013-12-22 14:17:02 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2013-12-22 14:17:03 [INFO] Preparing spawn area: 5%
+2013-12-22 14:17:04 [INFO] Preparing spawn area: 27%
+2013-12-22 14:17:05 [INFO] Preparing spawn area: 48%
+2013-12-22 14:17:06 [INFO] Preparing spawn area: 65%
+2013-12-22 14:17:07 [INFO] Preparing spawn area: 84%
+2013-12-22 14:17:08 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2013-12-22 14:17:09 [INFO] Preparing spawn area: 50%
+2013-12-22 14:17:10 [INFO] Preparing spawn area: 98%
+2013-12-22 14:17:10 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2013-12-22 14:17:11 [INFO] Preparing spawn area: 49%
+2013-12-22 14:17:12 [INFO] Preparing spawn area: 88%
+2013-12-22 14:17:12 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-22 14:17:12 [INFO] [MoreHearts] Enabled
+2013-12-22 14:17:12 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-22 14:17:12 [INFO] Done (11,437s)! For help, type "help" or "?"
+2013-12-22 14:17:44 [INFO] /192.168.1.17:54680 lost connection
+2013-12-22 14:17:50 [INFO] silver8563[/192.168.1.17:54681] logged in with entity id 182 at ([world] -20.508760911410658, 75.0, 196.5428478060471)
+2013-12-22 14:18:49 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-22 14:18:49 [INFO] §esilver8563 left the game.
+2013-12-22 14:18:49 [INFO] Connection reset
+2013-12-22 14:18:54 [INFO] CONSOLE: Stopping the server..[m
+2013-12-22 14:18:54 [INFO] Stopping server
+2013-12-22 14:18:54 [INFO] [MoreHearts] Disabling MoreHearts v1.6.5
+2013-12-22 14:18:54 [INFO] [MoreHearts] Disabled
+2013-12-22 14:18:54 [WARNING] DSCT: socket closed
+2013-12-22 14:18:54 [INFO] Closing listening thread
+2013-12-22 14:18:54 [INFO] Saving players
+2013-12-22 14:18:54 [INFO] Saving worlds
+2013-12-22 14:18:54 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-22 14:18:55 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-22 14:18:55 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-12-23 11:53:42 [INFO] Starting minecraft server version 1.6.4
+2013-12-23 11:53:42 [INFO] Loading properties
+2013-12-23 11:53:42 [INFO] Default game type: SURVIVAL
+2013-12-23 11:53:42 [INFO] Generating keypair
+2013-12-23 11:53:43 [INFO] Starting Minecraft server on *:25565
+2013-12-23 11:53:44 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-23 11:53:45 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-23 11:53:45 [INFO] ----- Bukkit Auto Updater -----
+2013-12-23 11:53:45 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-23 11:53:45 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-23 11:53:45 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-23 11:53:45 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-23 11:53:45 [INFO] ----- ------------------- -----
+2013-12-23 11:53:45 [INFO] Preparing level "world"
+2013-12-23 11:53:46 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2013-12-23 11:53:47 [INFO] Preparing spawn area: 8%
+2013-12-23 11:53:48 [INFO] Preparing spawn area: 42%
+2013-12-23 11:53:49 [INFO] Preparing spawn area: 73%
+2013-12-23 11:53:50 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2013-12-23 11:53:51 [INFO] Preparing spawn area: 50%
+2013-12-23 11:53:52 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2013-12-23 11:53:53 [INFO] Preparing spawn area: 56%
+2013-12-23 11:53:53 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-23 11:53:53 [INFO] [MoreHearts] Enabled
+2013-12-23 11:53:53 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-23 11:53:53 [INFO] Done (7,805s)! For help, type "help" or "?"
+2013-12-23 11:53:57 [INFO] /192.168.1.17:52395 lost connection
+2013-12-23 11:54:03 [INFO] silver8563[/192.168.1.17:52398] logged in with entity id 179 at ([world] -20.614430504497115, 75.0, 199.91104971632552)
+2013-12-23 11:54:13 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-23 11:54:13 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-23 11:54:19 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-23 11:54:19 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-23 11:56:13 [INFO] Connection reset
+2013-12-23 11:56:13 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-23 11:56:13 [INFO] §esilver8563 left the game.
+2013-12-23 11:56:16 [INFO] CONSOLE: Stopping the server..[m
+2013-12-23 11:56:16 [INFO] Stopping server
+2013-12-23 11:56:16 [INFO] [MoreHearts] Disabling MoreHearts v1.6.5
+2013-12-23 11:56:16 [INFO] [MoreHearts] Disabled
+2013-12-23 11:56:16 [WARNING] DSCT: socket closed
+2013-12-23 11:56:16 [INFO] Closing listening thread
+2013-12-23 11:56:16 [INFO] Saving players
+2013-12-23 11:56:16 [INFO] Saving worlds
+2013-12-23 11:56:16 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-23 11:56:17 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-23 11:56:17 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-12-24 12:47:25 [INFO] Starting minecraft server version 1.6.4
+2013-12-24 12:47:25 [INFO] Loading properties
+2013-12-24 12:47:25 [INFO] Default game type: SURVIVAL
+2013-12-24 12:47:25 [INFO] Generating keypair
+2013-12-24 12:47:27 [INFO] Starting Minecraft server on *:25565
+2013-12-24 12:47:28 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-24 12:47:29 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-24 12:47:29 [INFO] Preparing level "world"
+2013-12-24 12:47:30 [INFO] ----- Bukkit Auto Updater -----
+2013-12-24 12:47:30 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-24 12:47:30 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-24 12:47:30 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-24 12:47:30 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-24 12:47:30 [INFO] ----- ------------------- -----
+2013-12-24 12:47:30 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2013-12-24 12:47:31 [INFO] Preparing spawn area: 8%
+2013-12-24 12:47:32 [INFO] Preparing spawn area: 41%
+2013-12-24 12:47:33 [INFO] Preparing spawn area: 68%
+2013-12-24 12:47:34 [INFO] Preparing spawn area: 99%
+2013-12-24 12:47:34 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2013-12-24 12:47:35 [INFO] Preparing spawn area: 50%
+2013-12-24 12:47:36 [INFO] Preparing spawn area: 98%
+2013-12-24 12:47:36 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2013-12-24 12:47:37 [INFO] Preparing spawn area: 3%
+2013-12-24 12:47:38 [INFO] Preparing spawn area: 23%
+2013-12-24 12:47:39 [INFO] Preparing spawn area: 40%
+2013-12-24 12:47:40 [INFO] Preparing spawn area: 75%
+2013-12-24 12:47:40 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-24 12:47:40 [INFO] [MoreHearts] Enabled
+2013-12-24 12:47:40 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-24 12:47:41 [INFO] Done (11,705s)! For help, type "help" or "?"
+2013-12-24 12:47:43 [INFO] /192.168.1.17:50250 lost connection
+2013-12-24 12:47:49 [INFO] silver8563[/192.168.1.17:50251] logged in with entity id 188 at ([world] -19.328030267185103, 74.0, 192.82086447544665)
+2013-12-24 12:49:06 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-24 12:49:06 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-24 12:49:13 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-24 12:49:13 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-24 12:50:21 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-24 12:50:21 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-24 12:51:25 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-24 12:51:26 [INFO] §esilver8563 left the game.
+2013-12-24 12:51:26 [INFO] Connection reset
+2013-12-24 12:52:09 [INFO] /192.168.1.17:50329 lost connection
+2013-12-24 12:52:11 [INFO] silver8563[/192.168.1.17:50332] logged in with entity id 1490 at ([world] -18.973570878989474, 77.0, 210.97109214024584)
+2013-12-24 12:52:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-24 12:55:11 [INFO] silver8563 issued server command: /op silver8563
+2013-12-24 12:55:11 [INFO] silver8563: Opped silver8563[m
+2013-12-24 12:55:28 [INFO] silver8563 issued server command: /give silver8563 157
+2013-12-24 12:55:28 [INFO] silver8563: Gave silver8563 some 157 (ACTIVATOR_RAIL)[m
+2013-12-24 12:56:52 [INFO] CONSOLE: Gave silver8563 some 137 (COMMAND)[m
+2013-12-24 12:57:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-24 12:58:05 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-24 12:58:05 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-24 12:59:12 [INFO] CONSOLE: Stopping the server..[m
+2013-12-24 12:59:12 [INFO] Stopping server
+2013-12-24 12:59:12 [INFO] [MoreHearts] Disabling MoreHearts v1.6.5
+2013-12-24 12:59:12 [INFO] [MoreHearts] Disabled
+2013-12-24 12:59:12 [INFO] Saving players
+2013-12-24 12:59:12 [WARNING] DSCT: socket closed
+2013-12-24 12:59:12 [INFO] Closing listening thread
+2013-12-24 12:59:12 [INFO] §esilver8563 left the game.
+2013-12-24 12:59:12 [INFO] Saving worlds
+2013-12-24 12:59:12 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-24 12:59:13 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-24 12:59:13 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-12-24 13:32:38 [INFO] Starting minecraft server version 1.6.4
+2013-12-24 13:32:38 [INFO] Loading properties
+2013-12-24 13:32:38 [INFO] Default game type: SURVIVAL
+2013-12-24 13:32:38 [INFO] Generating keypair
+2013-12-24 13:32:39 [INFO] Starting Minecraft server on *:25565
+2013-12-24 13:32:41 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-24 13:32:41 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-24 13:32:41 [INFO] Preparing level "world"
+2013-12-24 13:32:42 [INFO] ----- Bukkit Auto Updater -----
+2013-12-24 13:32:42 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-24 13:32:42 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-24 13:32:42 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-24 13:32:42 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-24 13:32:42 [INFO] ----- ------------------- -----
+2013-12-24 13:32:42 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2013-12-24 13:32:43 [INFO] Preparing spawn area: 8%
+2013-12-24 13:32:44 [INFO] Preparing spawn area: 60%
+2013-12-24 13:32:45 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2013-12-24 13:32:46 [INFO] Preparing spawn area: 84%
+2013-12-24 13:32:47 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2013-12-24 13:32:47 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-24 13:32:47 [INFO] [MoreHearts] Enabled
+2013-12-24 13:32:47 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-24 13:32:48 [INFO] Done (6,211s)! For help, type "help" or "?"
+2013-12-24 13:32:54 [INFO] silver8563[/192.168.1.17:51838] logged in with entity id 178 at ([world] -20.70775835818464, 76.0, 202.2323603723164)
+2013-12-24 13:34:11 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-24 13:34:11 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-24 13:35:12 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-24 13:35:12 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-24 13:37:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-24 13:37:56 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-24 13:37:56 [INFO] silver8563: Set own game mode to CREATIVE mode[m
+2013-12-24 13:38:01 [INFO] silver8563 issued server command: /gamemode 1
+2013-12-24 13:38:08 [INFO] silver8563 issued server command: /gamemode 0
+2013-12-24 13:38:08 [INFO] silver8563: Set own game mode to SURVIVAL mode[m
+2013-12-24 13:38:36 [INFO] Connection reset
+2013-12-24 13:38:36 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-24 13:38:36 [INFO] §esilver8563 left the game.
+2013-12-24 13:38:39 [INFO] CONSOLE: Stopping the server..[m
+2013-12-24 13:38:39 [INFO] Stopping server
+2013-12-24 13:38:39 [INFO] [MoreHearts] Disabling MoreHearts v1.6.5
+2013-12-24 13:38:39 [INFO] [MoreHearts] Disabled
+2013-12-24 13:38:39 [WARNING] DSCT: socket closed
+2013-12-24 13:38:39 [INFO] Closing listening thread
+2013-12-24 13:38:39 [INFO] Saving players
+2013-12-24 13:38:39 [INFO] Saving worlds
+2013-12-24 13:38:39 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-24 13:38:40 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-24 13:38:40 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-12-24 15:15:20 [INFO] Starting minecraft server version 1.6.4
+2013-12-24 15:15:20 [INFO] Loading properties
+2013-12-24 15:15:20 [INFO] Default game type: SURVIVAL
+2013-12-24 15:15:20 [INFO] Generating keypair
+2013-12-24 15:15:20 [INFO] Starting Minecraft server on *:25565
+2013-12-24 15:15:21 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-24 15:15:21 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-24 15:15:21 [INFO] Preparing level "world"
+2013-12-24 15:15:21 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2013-12-24 15:15:22 [INFO] ----- Bukkit Auto Updater -----
+2013-12-24 15:15:22 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-24 15:15:22 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-24 15:15:22 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-24 15:15:22 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-24 15:15:22 [INFO] ----- ------------------- -----
+2013-12-24 15:15:22 [INFO] Preparing spawn area: 28%
+2013-12-24 15:15:23 [INFO] Preparing spawn area: 68%
+2013-12-24 15:15:24 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2013-12-24 15:15:25 [INFO] Preparing spawn area: 50%
+2013-12-24 15:15:25 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2013-12-24 15:15:26 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-24 15:15:26 [INFO] [MoreHearts] Enabled
+2013-12-24 15:15:27 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-24 15:15:27 [INFO] Done (5,614s)! For help, type "help" or "?"
+2013-12-24 15:15:30 [INFO] /192.168.1.17:55008 lost connection
+2013-12-24 15:15:35 [INFO] silver8563[/192.168.1.17:55012] logged in with entity id 195 at ([world] -20.151139295429385, 76.0, 202.74939960793938)
+2013-12-24 15:16:03 [INFO] CONSOLE: Set time to 0[m
+2013-12-24 15:20:10 [WARNING] CommandBlock at (-19,75,201) failed to handle command
+org.bukkit.command.CommandException: Unhandled exception executing command 'morehearts' in plugin MoreHearts v1.6.5
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at net.minecraft.server.v1_6_R3.TileEntityCommand.a(TileEntityCommand.java:101)
+	at net.minecraft.server.v1_6_R3.BlockCommand.a(BlockCommand.java:47)
+	at net.minecraft.server.v1_6_R3.WorldServer.a(WorldServer.java:532)
+	at net.minecraft.server.v1_6_R3.WorldServer.doTick(WorldServer.java:199)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.t(MinecraftServer.java:566)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.t(DedicatedServer.java:227)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.s(MinecraftServer.java:488)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:421)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: java.lang.IllegalArgumentException: Health must be between 0 and 14.0
+	at org.bukkit.craftbukkit.v1_6_R3.entity.CraftLivingEntity.setHealth(CraftLivingEntity.java:75)
+	at com.roei.morehearts.main.mh(main.java:494)
+	at com.roei.morehearts.main.onCommand(main.java:240)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 10 more
+2013-12-24 15:20:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-24 15:21:04 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-24 15:21:04 [INFO] Connection reset
+2013-12-24 15:21:04 [INFO] §esilver8563 left the game.
+2013-12-24 15:21:06 [INFO] CONSOLE: Stopping the server..[m
+2013-12-24 15:21:06 [INFO] Stopping server
+2013-12-24 15:21:06 [INFO] [MoreHearts] Disabling MoreHearts v1.6.5
+2013-12-24 15:21:06 [INFO] [MoreHearts] Disabled
+2013-12-24 15:21:07 [WARNING] DSCT: socket closed
+2013-12-24 15:21:07 [INFO] Closing listening thread
+2013-12-24 15:21:07 [INFO] Saving players
+2013-12-24 15:21:07 [INFO] Saving worlds
+2013-12-24 15:21:07 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-24 15:21:07 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-24 15:21:07 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-12-26 13:31:30 [INFO] Starting minecraft server version 1.6.4
+2013-12-26 13:31:30 [INFO] Loading properties
+2013-12-26 13:31:30 [INFO] Default game type: SURVIVAL
+2013-12-26 13:31:30 [INFO] Generating keypair
+2013-12-26 13:31:32 [INFO] Starting Minecraft server on *:25565
+2013-12-26 13:31:33 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2013-12-26 13:31:33 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2013-12-26 13:31:34 [INFO] ----- Bukkit Auto Updater -----
+2013-12-26 13:31:34 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-12-26 13:31:34 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-12-26 13:31:34 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-12-26 13:31:34 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-12-26 13:31:34 [INFO] ----- ------------------- -----
+2013-12-26 13:31:34 [INFO] Preparing level "world"
+2013-12-26 13:31:34 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2013-12-26 13:31:35 [INFO] Preparing spawn area: 10%
+2013-12-26 13:31:36 [INFO] Preparing spawn area: 46%
+2013-12-26 13:31:37 [INFO] Preparing spawn area: 73%
+2013-12-26 13:31:38 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2013-12-26 13:31:39 [INFO] Preparing spawn area: 50%
+2013-12-26 13:31:40 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2013-12-26 13:31:41 [INFO] Preparing spawn area: 50%
+2013-12-26 13:31:42 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2013-12-26 13:31:42 [INFO] [MoreHearts] Enabled
+2013-12-26 13:31:42 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-12-26 13:31:42 [INFO] Done (8,135s)! For help, type "help" or "?"
+2013-12-26 13:32:15 [INFO] silver8563[/192.168.1.22:54828] logged in with entity id 179 at ([world] -20.34730135247928, 76.0, 202.01765704173008)
+2013-12-26 13:33:39 [INFO] silver8563 lost connection: disconnect.quitting
+2013-12-26 13:33:39 [INFO] Connection reset
+2013-12-26 13:33:39 [INFO] §esilver8563 left the game.
+2013-12-26 13:33:43 [INFO] CONSOLE: Stopping the server..[m
+2013-12-26 13:33:43 [INFO] Stopping server
+2013-12-26 13:33:43 [INFO] [MoreHearts] Disabling MoreHearts v1.6.5
+2013-12-26 13:33:43 [INFO] [MoreHearts] Disabled
+2013-12-26 13:33:43 [WARNING] DSCT: socket closed
+2013-12-26 13:33:43 [INFO] Closing listening thread
+2013-12-26 13:33:43 [INFO] Saving players
+2013-12-26 13:33:43 [INFO] Saving worlds
+2013-12-26 13:33:43 [INFO] Saving chunks for level 'world'/Overworld
+2013-12-26 13:33:44 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-12-26 13:33:44 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-12-26 13:04:53 [INFO] Starting minecraft server version 1.6.4
+2014-12-26 13:04:53 [INFO] Loading properties
+2014-12-26 13:04:53 [INFO] Default game type: SURVIVAL
+2014-12-26 13:04:53 [INFO] Generating keypair
+2014-12-26 13:04:54 [INFO] Starting Minecraft server on *:25565
+2014-12-26 13:04:55 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-1-g988f599-b2919jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.1-SNAPSHOT)
+2014-12-26 13:04:55 [INFO] [MoreHearts] Loading MoreHearts v1.6.5
+2014-12-26 13:04:56 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
+2014-12-26 13:04:56 [INFO] Preparing level "world"
+2014-12-26 13:04:56 [WARNING] Could not get latest artifact information: IOException
+2014-12-26 13:04:56 [INFO] Preparing start region for level 0 (Seed: 8954670448199669933)
+2014-12-26 13:04:57 [INFO] Preparing spawn area: 8%
+2014-12-26 13:04:58 [INFO] Preparing spawn area: 59%
+2014-12-26 13:04:59 [INFO] Preparing start region for level 1 (Seed: 8954670448199669933)
+2014-12-26 13:05:00 [INFO] Preparing spawn area: 80%
+2014-12-26 13:05:00 [INFO] Preparing start region for level 2 (Seed: 8954670448199669933)
+2014-12-26 13:05:01 [INFO] Preparing spawn area: 86%
+2014-12-26 13:05:03 [INFO] [MoreHearts] Enabling MoreHearts v1.6.5
+2014-12-26 13:05:03 [INFO] [MoreHearts] Enabled
+2014-12-26 13:05:03 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-12-26 13:05:03 [INFO] Done (7,599s)! For help, type "help" or "?"
